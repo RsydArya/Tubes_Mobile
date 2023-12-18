@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884400253983",
+    "project_id": "onlineshop-afef5",
+    "storage_bucket": "onlineshop-afef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884400253983:android:cca666451de2e3739c792a",
+        "android_client_info": {
+          "package_name": "com.example.project1442"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqzY-jKCfE19iQFTZptUC0iPezYh0wiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
